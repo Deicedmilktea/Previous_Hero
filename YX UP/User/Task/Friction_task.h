@@ -1,0 +1,1 @@
+void Friction_task(void const * argument);
